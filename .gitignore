@@ -135,4 +135,9 @@ dmypy.json
 .idea/
 
 # CSV
-.csv
+*.csv
+
+# PDF
+*.pdf
+
+week-1/docker-sql/ny_taxi_postgres_data/*
