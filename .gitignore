@@ -137,7 +137,13 @@ dmypy.json
 # CSV
 *.csv
 
+# Parquet
+*.parquet
+
 # PDF
 *.pdf
 
 week-1/docker-sql/ny_taxi_postgres_data/*
+
+# terraform
+week-1/terraform-gcp/terraform/variables.tf
